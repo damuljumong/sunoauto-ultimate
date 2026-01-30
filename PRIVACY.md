@@ -1,10 +1,10 @@
-# Privacy Policy for SunoAuto Ultimate
+# Privacy Policy for Auto Suno Ultimate
 
 **Last updated: January 28, 2026**
 
 ## Overview
 
-SunoAuto Ultimate is a browser extension designed to automate music creation and downloading on Suno.com. We are committed to protecting your privacy and being transparent about our data practices.
+Auto Suno Ultimate is a browser extension designed to automate music creation and downloading on Suno.com. We are committed to protecting your privacy and being transparent about our data practices.
 
 ## Data Collection
 
@@ -42,7 +42,6 @@ We do **NOT**:
 | Permission | Why It's Needed |
 |------------|-----------------|
 | `downloads` | To save MP3 and WAV music files to your device |
-| `storage` | To save your preferences (language, panel position) locally |
 | `host_permissions` | To access Suno.com and its API servers for downloading music |
 
 ## Third-Party Services
@@ -66,4 +65,4 @@ If you have any questions about this Privacy Policy, please contact us at:
 
 ---
 
-© 2026 SunoAuto Ultimate. All rights reserved.
+© 2026 Auto Suno Ultimate. All rights reserved.
