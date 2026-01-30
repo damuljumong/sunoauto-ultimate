@@ -27,7 +27,7 @@ Auto Suno Ultimate is a browser extension designed to automate music creation an
 
 ## Data Storage
 
-All user preferences are stored **locally on your device** using Chrome's built-in storage API. No data is ever transmitted to external servers owned or operated by us.
+All user preferences are stored **locally on your device** in memory during the browsing session. No data is ever transmitted to external servers owned or operated by us.
 
 ## Data Sharing
 
@@ -66,3 +66,4 @@ If you have any questions about this Privacy Policy, please contact us at:
 ---
 
 © 2026 Auto Suno Ultimate. All rights reserved.
+
